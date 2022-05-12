@@ -1,6 +1,6 @@
-#Algoritmos y Estructuras de Datos 
+# Algoritmos y Estructuras de Datos 
 
-##Ejemplos-Tipos
+## Ejemplos-Tipos
 
 Profesor: Ing. José María Sola
 
