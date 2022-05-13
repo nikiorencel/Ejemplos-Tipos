@@ -27,13 +27,16 @@ int main()
 
     //Tipo de dato: CHAR
 
+    assert('A' == 'A');
     assert('A' != 'B');
     assert('A' <= 'B'); //Por la tabla ASCII
     assert(131 == 'A' + 'B'); //En la tabla ASCII A=65 y B=66
 
 
     //Tipo de dato: STRING
-
+ 
+    assert("Nicole" == "Nicole");
+    assert("Nicole" != "Orencel");
     assert("Nicole"s == "Ni"s + "co"s + "le"s);
     assert("Nicole"s.length() == 6);
 
